@@ -1,0 +1,23 @@
+{
+  "name": "email",
+  "version": "0.1.0",
+  "description": "Take a snapshot from a security cam and send it on email",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Andre Sollie",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "util": "^0.10.3"
+  }
+}
